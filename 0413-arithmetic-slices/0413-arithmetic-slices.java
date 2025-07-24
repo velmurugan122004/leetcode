@@ -5,10 +5,10 @@ class Solution {
         // {
         //     return 1;
         // }
-        int count=0;
+        int count=0,dif;
         for(int i=0;i<length-2;i++)
         {
-            int dif=nums[i+1]-nums[i];
+            dif=nums[i+1]-nums[i];
             for(int j=i+2;j<length;j++)
             {
                 if(dif==nums[j]-nums[j-1])
