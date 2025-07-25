@@ -1,35 +1,30 @@
 class Solution {
+    public static final Map<Character,String> keyboard=Map.of(
+        '2',"abc",'3',"def",'4',"ghi",'5',"jkl",'6',"mno",'7',"pqrs",'8',"tuv",'9',"wxyz"
+    );
     public List<String> letterCombinations(String digits) {
         List<String> res=new ArrayList<String>();
         if(digits==null || digits.length()==0)
         {
             return res;
         }
-        Map<Character,String> keyboard=new HashMap<>();
-        keyboard.put('2',"abc");
-        keyboard.put('3',"def");
-        keyboard.put('4',"ghi");
-        keyboard.put('5',"jkl");
-        keyboard.put('6',"mno");
-        keyboard.put('7',"pqrs");
-        keyboard.put('8',"tuv");
-        keyboard.put('9',"wxyz");
-        backtrack(0,digits,res,keyboard,new StringBuilder());
+        
+        backtrack(digits,res,new StringBuilder());
         return res;
 
     }
-    public void backtrack(int index,String digit,List<String> res,Map<Character,String> keyboard,StringBuilder combine)
+    public void backtrack(String digit,List<String> res,StringBuilder combine)
     {
         if(digit.length()==combine.length())
         {
             res.add(combine.toString());
             return;
         }
-        String letters=keyboard.get(digit.charAt(index));
+        String letters=keyboard.get(digit.charAt(combine.length()));
         for(char c:letters.toCharArray())
         {
             combine.append(c);
-            backtrack(index+1,digit,res,keyboard,combine);
+            backtrack(digit,res,combine);
             combine.deleteCharAt(combine.length()-1);
         }
     }
