@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/velmurugan122004/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/velmurugan122004/leetcode/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/velmurugan122004/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/velmurugan122004/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
