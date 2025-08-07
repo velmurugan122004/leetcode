@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/velmurugan122004/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/velmurugan122004/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/velmurugan122004/leetcode/tree/master/0061-rotate-list) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/velmurugan122004/leetcode/tree/master/0011-container-with-most-water) |
 | [0239-sliding-window-maximum](https://github.com/velmurugan122004/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/velmurugan122004/leetcode/tree/master/0413-arithmetic-slices) |
 ## Queue
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/velmurugan122004/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/velmurugan122004/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/velmurugan122004/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
