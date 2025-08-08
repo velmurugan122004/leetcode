@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/velmurugan122004/leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/velmurugan122004/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/velmurugan122004/leetcode/tree/master/0049-group-anagrams) |
 | [0239-sliding-window-maximum](https://github.com/velmurugan122004/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/velmurugan122004/leetcode/tree/master/0413-arithmetic-slices) |
 ## Queue
@@ -49,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/velmurugan122004/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/velmurugan122004/leetcode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/velmurugan122004/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/velmurugan122004/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/velmurugan122004/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/velmurugan122004/leetcode/tree/master/0049-group-anagrams) |
 | [1250-longest-common-subsequence](https://github.com/velmurugan122004/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/velmurugan122004/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/velmurugan122004/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
