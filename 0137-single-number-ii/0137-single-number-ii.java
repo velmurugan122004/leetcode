@@ -1,21 +1,15 @@
 class Solution {
     public int singleNumber(int[] nums) {
-       for(int i=0;i<nums.length;i++)
-       {
-         if(count(nums[i],nums,0,0)==1)
-         {
-            return nums[i];
-         }
-       }
-        return -1; 
-    }
-    public int count(int n,int arr[],int count,int i)
-    {
-        if(n==arr[i])
-        {
-            count++;
+        Map<Integer,Integer> freq=new HashMap<>();
+        for (int num : nums) {
+            freq.put(num, freq.getOrDefault(num, 0) + 1);
         }
-        i++;
-        return i<arr.length?count(n,arr,count,i):count;
+        for (Map.Entry<Integer, Integer> entry : freq.entrySet()) {
+            if (entry.getValue() == 1) {
+                return entry.getKey();
+            }
+        }
+        
+        return -1; 
     }
 }
