@@ -1,39 +1,26 @@
-import java.math.BigInteger;
-
 class Solution {
     public String multiply(String num1, String num2) {
-        BigInteger n1 = integer(num1, BigInteger.ZERO, 0);
-        BigInteger n2 = integer(num2, BigInteger.ZERO, 0);
-        BigInteger n3 = n2.multiply(n1);
-        return inttostring(n3);
-    }
+        int m = num1.length(), n = num2.length();
+        int[] res = new int[m + n];
 
-    public BigInteger integer(String s1, BigInteger num, int i) {
-        num = num.multiply(BigInteger.TEN).add(BigInteger.valueOf(s1.charAt(i) - '0'));
-        i++;
-        return i < s1.length() ? integer(s1, num, i) : num;
-    }
+        for(int i = m - 1; i >= 0; i--){
+            int d1 = num1.charAt(i) - '0';
+            for(int j = n - 1; j >= 0; j--){
+                int d2 = num2.charAt(j) - '0';
+                int mul = d1 * d2;
+                int p1 = i + j, p2 = i + j + 1;
 
-    public String inttostring(BigInteger num) {
-        boolean isNegative = false;
-        if (num.compareTo(BigInteger.ZERO) < 0) {
-            isNegative = true;
-            num = num.negate();
+                int sum = mul + res[p2];
+                res[p2] = sum % 10;
+                res[p1] += sum / 10;
+            }
         }
         StringBuilder sb = new StringBuilder();
-        if (num.equals(BigInteger.ZERO)) {
-            return "0";
+        for(int num: res){
+            if(!(sb.length() == 0 && num == 0)){
+                sb.append(num);
+            }
         }
-        while (num.compareTo(BigInteger.ZERO) > 0) {
-            BigInteger[] divRem = num.divideAndRemainder(BigInteger.TEN);
-            char digit = (char) ('0' + divRem[1].intValue());
-            sb.append(digit);
-            num = divRem[0];
-        }
-        if (isNegative) {
-            sb.append('-');
-        }
-        sb.reverse();
-        return sb.toString();
+        return sb.length() == 0 ? "0" :sb.toString();
     }
 }
