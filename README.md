@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/velmurugan122004/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/velmurugan122004/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/velmurugan122004/leetcode/tree/master/0061-rotate-list) |
+| [0151-reverse-words-in-a-string](https://github.com/velmurugan122004/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/velmurugan122004/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/velmurugan122004/leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/velmurugan122004/leetcode/tree/master/0065-valid-number) |
+| [0151-reverse-words-in-a-string](https://github.com/velmurugan122004/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/velmurugan122004/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
