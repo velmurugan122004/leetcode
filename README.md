@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/velmurugan122004/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/velmurugan122004/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/velmurugan122004/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0343-integer-break](https://github.com/velmurugan122004/leetcode/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/velmurugan122004/leetcode/tree/master/0413-arithmetic-slices) |
 | [1250-longest-common-subsequence](https://github.com/velmurugan122004/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/velmurugan122004/leetcode/tree/master/0043-multiply-strings) |
+| [0343-integer-break](https://github.com/velmurugan122004/leetcode/tree/master/0343-integer-break) |
 ## Simulation
 |  |
 | ------- |
