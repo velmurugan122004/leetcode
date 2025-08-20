@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/velmurugan122004/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/velmurugan122004/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/velmurugan122004/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/velmurugan122004/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/velmurugan122004/leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/velmurugan122004/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/velmurugan122004/leetcode/tree/master/0413-arithmetic-slices) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/velmurugan122004/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/velmurugan122004/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/velmurugan122004/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/velmurugan122004/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Sorting
 |  |
 | ------- |
