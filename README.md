@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/velmurugan122004/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/velmurugan122004/leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/velmurugan122004/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/velmurugan122004/leetcode/tree/master/0260-single-number-iii) |
 | [0413-arithmetic-slices](https://github.com/velmurugan122004/leetcode/tree/master/0413-arithmetic-slices) |
 ## Queue
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/velmurugan122004/leetcode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/velmurugan122004/leetcode/tree/master/0260-single-number-iii) |
 ## String Matching
 |  |
 | ------- |
