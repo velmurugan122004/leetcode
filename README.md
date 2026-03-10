@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/velmurugan122004/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/velmurugan122004/leetcode/tree/master/0260-single-number-iii) |
 | [0413-arithmetic-slices](https://github.com/velmurugan122004/leetcode/tree/master/0413-arithmetic-slices) |
+| [0494-target-sum](https://github.com/velmurugan122004/leetcode/tree/master/0494-target-sum) |
 ## Queue
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/velmurugan122004/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/velmurugan122004/leetcode/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/velmurugan122004/leetcode/tree/master/0413-arithmetic-slices) |
+| [0494-target-sum](https://github.com/velmurugan122004/leetcode/tree/master/0494-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/velmurugan122004/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/velmurugan122004/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/velmurugan122004/leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/velmurugan122004/leetcode/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/velmurugan122004/leetcode/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
