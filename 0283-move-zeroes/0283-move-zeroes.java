@@ -4,7 +4,7 @@ class Solution {
         while(j<nums.length)
         {
             if(nums[j]!=0){
-                swap(i,j,nums);
+                if (i != j) swap(i, j, nums);
                 i++;
                 j++;
             }
