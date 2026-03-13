@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/velmurugan122004/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/velmurugan122004/leetcode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/velmurugan122004/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/velmurugan122004/leetcode/tree/master/0283-move-zeroes) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/velmurugan122004/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/velmurugan122004/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/velmurugan122004/leetcode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/velmurugan122004/leetcode/tree/master/0283-move-zeroes) |
 | [0413-arithmetic-slices](https://github.com/velmurugan122004/leetcode/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/velmurugan122004/leetcode/tree/master/0494-target-sum) |
 ## Queue
