@@ -1,6 +1,6 @@
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
-        if(nums.length<3)
+        if(nums == null || nums.length<3)
         {
             return 0;
         }
